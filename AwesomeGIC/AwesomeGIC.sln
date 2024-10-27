@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwesomeGIC", "AwesomeGIC.csproj", "{2EBB736F-58D2-48F1-9473-B95C16E08880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeGICTest", "..\AwesomeGICTest\AwesomeGICTest.csproj", "{8A329567-452A-44A2-9962-0A67D56CEDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBB736F-58D2-48F1-9473-B95C16E08880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBB736F-58D2-48F1-9473-B95C16E08880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBB736F-58D2-48F1-9473-B95C16E08880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBB736F-58D2-48F1-9473-B95C16E08880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A329567-452A-44A2-9962-0A67D56CEDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A329567-452A-44A2-9962-0A67D56CEDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A329567-452A-44A2-9962-0A67D56CEDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A329567-452A-44A2-9962-0A67D56CEDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DD3EAAB-9A2F-4714-85D2-3CB23F18DD98}
+	EndGlobalSection
+EndGlobal
